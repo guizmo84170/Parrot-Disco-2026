@@ -23,7 +23,6 @@ Modification complète du Parrot Disco : suppression du chunk d'origine, intégr
 | Système vidéo | DJI O4 Pro | [LIEN] |
 | Contrôleur de vol | Matek F405 | [LIEN] |
 | Récepteur RC | *(à préciser)* | [LIEN] |
-| Moteur(s) | *(si remplacé)* | [LIEN] |
 | ESC | *(à préciser)* | [LIEN] |
 | Batterie | *(capacité/type)* | [LIEN] |
 | Autre (connecteurs, câblage, etc.) | | [LIEN] |
@@ -33,12 +32,11 @@ Modification complète du Parrot Disco : suppression du chunk d'origine, intégr
 Toutes les pièces sont disponibles en téléchargement/achat sur :
 
 - **Cults3D** : [[LIEN]](https://cults3d.com/fr/mod%C3%A8le-3d/jeu/parrot-disco-2026-mod-full-fpv)
-- **MyMiniFactory** : [LIEN]
 
 | Pièce | Fonction | Matériau conseillé | Fichier |
 |---|---|---|---|
-| Support O4 Pro | Fixation caméra/VTX | PETG | `stl/support_o4pro.stl` |
-| Support Matek F405 | Fixation FC + amortissement vibrations | TPU + PETG | `stl/support_fc.stl` |
+| Support O4 Pro | Fixation caméra/VTX | PETG/PLA | `stl/support_o4pro.stl` |
+| Support Matek F405 | Fixation FC + amortissement vibrations | PETG/PLA | `stl/support_fc.stl` |
 | Cache chunk | Remplacement esthétique/aéro | PLA/PETG | `stl/cache_chunk.stl` |
 
 **Paramètres d'impression recommandés** *(à adapter selon tes tests)* :
