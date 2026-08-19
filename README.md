@@ -1,6 +1,6 @@
 # Parrot Disco – DJI O4 Pro + Matek F405 Mod
 
-![Disco modifié](docs/images/hero.jpg)
+![Disco modifié](docs/images/Hero.png)
 <!-- Remplace par une belle photo/GIF du Disco modifié en vol -->
 
 Modification complète du Parrot Disco : suppression du chunk d'origine, intégration d'un système vidéo **DJI O4 Pro** et d'un contrôleur de vol **Matek F405**, avec pièces 3D imprimées sur-mesure.
