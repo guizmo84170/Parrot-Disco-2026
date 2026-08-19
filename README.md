@@ -8,8 +8,8 @@ Modification complète du Parrot Disco : suppression du chunk d'origine, intégr
 ## 🎯 Présentation du projet
 
 - **Pourquoi ce mod ?** Remplacement de l'électronique propriétaire Parrot par une stack moderne, open et réparable (vidéo longue portée O4 Pro + contrôleur de vol INAV).
-- **Gains** : suppression du chunk (poids/encombrement), vidéo numérique longue portée, réglages de vol personnalisables via INAV.
-- **Statut** : ✅ Fonctionnel / 🚧 En cours d'optimisation *(à adapter)*
+- **Gains** : suppression du chuck (poids/encombrement), vidéo numérique longue portée, réglages de vol personnalisables via INAV.
+- **Statut** : ✅ Fonctionnel 
 
 ## ✈️ Résultat
 
@@ -22,9 +22,9 @@ Modification complète du Parrot Disco : suppression du chunk d'origine, intégr
 |---|---|---|
 | Système vidéo | DJI O4 Pro | [LIEN] |
 | Contrôleur de vol | Matek F405 | [LIEN] |
-| Récepteur RC | *(à préciser)* | [LIEN] |
-| ESC | *(à préciser)* | [LIEN] |
-| Batterie | *(capacité/type)* | [LIEN] |
+| Récepteur RC | DJI O4 Pro | [LIEN] |
+| ESC | 20A | [LIEN] |
+| Batterie | 3S 2200mah | [LIEN] |
 | Autre (connecteurs, câblage, etc.) | | [LIEN] |
 
 ## 🖨️ Pièces imprimées 3D
@@ -37,7 +37,7 @@ Toutes les pièces sont disponibles en téléchargement/achat sur :
 |---|---|---|---|
 | Support O4 Pro | Fixation caméra/VTX | PETG/PLA | `stl/support_o4pro.stl` |
 | Support Matek F405 | Fixation FC + amortissement vibrations | PETG/PLA | `stl/support_fc.stl` |
-| Cache chunk | Remplacement esthétique/aéro | PLA/PETG | `stl/cache_chunk.stl` |
+| Cache chunk | Remplacement esthétique/aéro | PLA/PETG | `stl/cache_chuck.stl` |
 
 **Paramètres d'impression recommandés** *(à adapter selon tes tests)* :
 - Hauteur de couche : 0.2 mm
