@@ -68,7 +68,7 @@ Points clés de configuration :
 
 ## 📋 Guide de montage
 
-1. Démontage du chunk d'origine
+1. Démontage du C.H.U.C.K d'origine
 2. Impression et préparation des supports 3D
 3. Installation Matek F405 + câblage
 4. Installation DJI O4 Pro
@@ -84,8 +84,8 @@ Ce mod implique de voler avec un firmware et un matériel non homologués par Pa
 
 ## 📬 Contact / Commander
 
-- Pièces imprimées prêtes à l'emploi : *(lien boutique/Etsy si applicable)*
-- Questions techniques : *(Discord/forum/email)*
+- Pièces imprimées prêtes à l'emploi : me faire la demande par Email 
+- Questions techniques : Email
 
 ## 📄 Licence
 
