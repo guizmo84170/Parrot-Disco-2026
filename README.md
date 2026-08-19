@@ -32,7 +32,7 @@ Modification complète du Parrot Disco : suppression du chunk d'origine, intégr
 
 Toutes les pièces sont disponibles en téléchargement/achat sur :
 
-- **Cults3D** : [LIEN]
+- **Cults3D** : [[LIEN]](https://cults3d.com/fr/mod%C3%A8le-3d/jeu/parrot-disco-2026-mod-full-fpv)
 - **MyMiniFactory** : [LIEN]
 
 | Pièce | Fonction | Matériau conseillé | Fichier |
