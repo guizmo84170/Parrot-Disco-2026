@@ -20,12 +20,16 @@ Modification complète du Parrot Disco : suppression du chunk d'origine, intégr
 
 | Composant | Référence | Lien d'achat |
 |---|---|---|
-| Système vidéo | DJI O4 Pro | [LIEN] |
-| Contrôleur de vol | Matek F405 | [LIEN] |
-| Récepteur RC | DJI O4 Pro | [LIEN] |
-| ESC | 20A | [LIEN] |
-| Batterie | 3S 2200mah | [LIEN] |
+| Système vidéo | DJI O4 Pro | [[LIEN](https://www.lacameraembarquee.fr/dji-o4-air-unit-goggles/17819-dji-o4-air-unit-pro-6941565997449.html?_gl=1*hhpa1w*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCrOjXVgFd831_hShvJd5t6dS78Hx8ORc5JiBFzGBFefLPl-N_rk_9hoChnMQAvD_BwE&gbraid=0AAAAADr3K4FsFi52pIUgIPQpGSN7XgvZW)] |
+| Contrôleur de vol | Matek F405 | [[LIEN](https://www.drone-fpv-racer.com/controleur-de-vol-f405-wing-v2-matek-11770.html)] |
+| Récepteur RC | DJI O4 Pro | [[LIEN](https://www.lacameraembarquee.fr/dji-o4-air-unit-goggles/17819-dji-o4-air-unit-pro-6941565997449.html?_gl=1*hhpa1w*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCrOjXVgFd831_hShvJd5t6dS78Hx8ORc5JiBFzGBFefLPl-N_rk_9hoChnMQAvD_BwE&gbraid=0AAAAADr3K4FsFi52pIUgIPQpGSN7XgvZW)] |
+| ESC | 20A | [[LIEN](https://www.amazon.fr/HAWKS-WORK-ESC-R%C3%A9gulateur-%C3%A9lectrique/dp/B0B25DLFZ2/ref=asc_df_B0B25DLFZ2?mcid=e020c60081143cf297a3b400aa3bcccf&tag=googshopfr-21&linkCode=df0&hvadid=701568500532&hvpos=&hvnetw=g&hvrand=12705995331897052298&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9056380&hvtargid=pla-2204884071040&psc=1&hvocijid=12705995331897052298-B0B25DLFZ2-&hvexpln=0)] |
+| Batterie | 3S 2200mah | [[LIEN](https://www.lacameraembarquee.fr/batteries-fpv/15885-batterie-lipo-cnhl-black-series-3s-2200mah-40c.html?_gl=1*ezj4u*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCrOjXVgFd831_hShvJd5t6dS78Hx8ORc5JiBFzGBFefLPl-N_rk_9hoChnMQAvD_BwE&gbraid=0AAAAADr3K4FsFi52pIUgIPQpGSN7XgvZW)] |
 | Autre (connecteurs, câblage, etc.) | | [LIEN] |
+| Cables Dupont |
+| Insert laiton pour impression 3D |
+| Vis 2.5mm|
+| Ventilateur 30mmx30mm 5V |
 
 ## 🖨️ Pièces imprimées 3D
 
@@ -35,9 +39,9 @@ Toutes les pièces sont disponibles en téléchargement/achat sur :
 
 | Pièce | Fonction | Matériau conseillé | Fichier |
 |---|---|---|---|
-| Support O4 Pro | Fixation caméra/VTX | PETG/PLA | `stl/support_o4pro.stl` |
+| Support O4 Pro | Fixation VTX | PETG/PLA | `stl/support_o4pro.stl` |
 | Support Matek F405 | Fixation FC + amortissement vibrations | PETG/PLA | `stl/support_fc.stl` |
-| Cache chunk | Remplacement esthétique/aéro | PLA/PETG | `stl/cache_chuck.stl` |
+| Support Camera  | Fixation Camera | PLA/PETG | `stl/cache_chuck.stl` |
 
 **Paramètres d'impression recommandés** *(à adapter selon tes tests)* :
 - Hauteur de couche : 0.2 mm
