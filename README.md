@@ -26,6 +26,7 @@ Modification complète du Parrot Disco : suppression du chunk d'origine, intégr
 | ESC | 20A | [[LIEN](https://www.amazon.fr/HAWKS-WORK-ESC-R%C3%A9gulateur-%C3%A9lectrique/dp/B0B25DLFZ2/ref=asc_df_B0B25DLFZ2?mcid=e020c60081143cf297a3b400aa3bcccf&tag=googshopfr-21&linkCode=df0&hvadid=701568500532&hvpos=&hvnetw=g&hvrand=12705995331897052298&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9056380&hvtargid=pla-2204884071040&psc=1&hvocijid=12705995331897052298-B0B25DLFZ2-&hvexpln=0)] |
 | Batterie | 3S 2200mah | [[LIEN](https://www.lacameraembarquee.fr/batteries-fpv/15885-batterie-lipo-cnhl-black-series-3s-2200mah-40c.html?_gl=1*ezj4u*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCrOjXVgFd831_hShvJd5t6dS78Hx8ORc5JiBFzGBFefLPl-N_rk_9hoChnMQAvD_BwE&gbraid=0AAAAADr3K4FsFi52pIUgIPQpGSN7XgvZW)] |
 | Autre (connecteurs, câblage, etc.) | | [LIEN] |
+| GPS M10 | | .[[LIEN](https://www.drone-fpv-racer.com/module-gps-m10-glonass-tbs-12411.html)] |
 | Cables Dupont |
 | Insert laiton pour impression 3D |
 | Vis 2.5mm|
