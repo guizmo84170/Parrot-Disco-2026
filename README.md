@@ -1,97 +1,96 @@
 # Parrot Disco – DJI O4 Pro + Matek F405 Mod
 
-![Disco modifié](docs/images/Hero.png)
-<!-- Remplace par une belle photo/GIF du Disco modifié en vol -->
+🇬🇧 English | 🇫🇷 [Lire en français](README.fr.md)
 
-Modification complète du Parrot Disco : suppression du chunk d'origine, intégration d'un système vidéo **DJI O4 Pro** et d'un contrôleur de vol **Matek F405**, avec pièces 3D imprimées sur-mesure.
+![Modified Disco](docs/images/Hero.png)
 
-## 🎯 Présentation du projet
+Full conversion of the Parrot Disco: removal of the original chuck, integration of a **DJI O4 Pro** digital video system and a **Matek F405** flight controller, with custom 3D-printed mounts.
 
-- **Pourquoi ce mod ?** Remplacement de l'électronique propriétaire Parrot par une stack moderne, open et réparable (vidéo longue portée O4 Pro + contrôleur de vol INAV).
-- **Gains** : suppression du chuck (poids/encombrement), vidéo numérique longue portée, réglages de vol personnalisables via INAV.
-- **Statut** : ✅ Fonctionnel 
+## 🎯 Project overview
 
-## ✈️ Résultat
+- **Why this mod?** Replacing Parrot's proprietary electronics with a modern, open, and repairable stack (O4 Pro long-range video + INAV flight controller).
+- **Benefits**: removal of the chuck (weight/space savings), digital long-range video, fully customizable flight tuning via INAV.
+- **Status**: ✅ Working
 
-<!-- Lien YouTube/Reddit si tu as une vidéo de vol -->
-[Vidéo du premier vol](LIEN_VIDEO)
+## ✈️ Result
 
-## 🛠️ Matériel utilisé
+[First flight video](LIEN_VIDEO)
 
-| Composant | Référence | Lien d'achat |
+## 🛠️ Hardware used
+
+| Component | Reference | Buy link |
 |---|---|---|
-| Système vidéo | DJI O4 Pro | [[LIEN](https://www.lacameraembarquee.fr/dji-o4-air-unit-goggles/17819-dji-o4-air-unit-pro-6941565997449.html?_gl=1*hhpa1w*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCrOjXVgFd831_hShvJd5t6dS78Hx8ORc5JiBFzGBFefLPl-N_rk_9hoChnMQAvD_BwE&gbraid=0AAAAADr3K4FsFi52pIUgIPQpGSN7XgvZW)] |
-| Contrôleur de vol | Matek F405 | [[LIEN](https://www.drone-fpv-racer.com/controleur-de-vol-f405-wing-v2-matek-11770.html)] |
-| Récepteur RC | DJI O4 Pro | [[LIEN](https://www.lacameraembarquee.fr/dji-o4-air-unit-goggles/17819-dji-o4-air-unit-pro-6941565997449.html?_gl=1*hhpa1w*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCrOjXVgFd831_hShvJd5t6dS78Hx8ORc5JiBFzGBFefLPl-N_rk_9hoChnMQAvD_BwE&gbraid=0AAAAADr3K4FsFi52pIUgIPQpGSN7XgvZW)] |
-| ESC | 20A | [[LIEN](https://www.amazon.fr/HAWKS-WORK-ESC-R%C3%A9gulateur-%C3%A9lectrique/dp/B0B25DLFZ2/ref=asc_df_B0B25DLFZ2?mcid=e020c60081143cf297a3b400aa3bcccf&tag=googshopfr-21&linkCode=df0&hvadid=701568500532&hvpos=&hvnetw=g&hvrand=12705995331897052298&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9056380&hvtargid=pla-2204884071040&psc=1&hvocijid=12705995331897052298-B0B25DLFZ2-&hvexpln=0)] |
-| Batterie | 3S 2200mah | [[LIEN](https://www.lacameraembarquee.fr/batteries-fpv/15885-batterie-lipo-cnhl-black-series-3s-2200mah-40c.html?_gl=1*ezj4u*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCrOjXVgFd831_hShvJd5t6dS78Hx8ORc5JiBFzGBFefLPl-N_rk_9hoChnMQAvD_BwE&gbraid=0AAAAADr3K4FsFi52pIUgIPQpGSN7XgvZW)] |
-| Autre (connecteurs, câblage, etc.) | | [LIEN] |
-| GPS M10 | | [[LIEN](https://www.drone-fpv-racer.com/module-gps-m10-glonass-tbs-12411.html)] |
-| Cables Dupont |
-| Insert laiton pour impression 3D |
-| Vis 2.5mm|
-| Ventilateur 30mmx30mm 5V |
+| Video system | DJI O4 Pro | [LINK](https://www.lacameraembarquee.fr/dji-o4-air-unit-goggles/17819-dji-o4-air-unit-pro-6941565997449.html) |
+| Flight controller | Matek F405 | [LINK](https://www.drone-fpv-racer.com/controleur-de-vol-f405-wing-v2-matek-11770.html) |
+| RC receiver | DJI O4 Pro | [LINK](https://www.lacameraembarquee.fr/dji-o4-air-unit-goggles/17819-dji-o4-air-unit-pro-6941565997449.html) |
+| ESC | 20A | [LINK](https://www.amazon.fr/HAWKS-WORK-ESC-R%C3%A9gulateur-%C3%A9lectrique/dp/B0B25DLFZ2) |
+| Battery | 3S 2200mAh | [LINK](https://www.lacameraembarquee.fr/batteries-fpv/15885-batterie-lipo-cnhl-black-series-3s-2200mah-40c.html) |
+| Other (connectors, wiring, etc.) | | [LINK] |
+| GPS M10 | | [LINK](https://www.drone-fpv-racer.com/module-gps-m10-glonass-tbs-12411.html) |
+| Dupont cables | | |
+| Brass inserts for 3D printing | | |
+| 2.5mm screws | | |
+| 30mmx30mm 5V fan | | |
 
-## 🖨️ Pièces imprimées 3D
+## 🖨️ 3D printed parts
 
-Toutes les pièces sont disponibles en téléchargement/achat sur :
+All parts are available for download/purchase at:
 
-- **Cults3D** : [[LIEN]](https://cults3d.com/fr/mod%C3%A8le-3d/jeu/parrot-disco-2026-mod-full-fpv)
+- **Cults3D**: [LINK](https://cults3d.com/fr/mod%C3%A8le-3d/jeu/parrot-disco-2026-mod-full-fpv)
 
-| Pièce | Fonction | Matériau conseillé | Fichier |
+| Part | Function | Recommended material | File |
 |---|---|---|---|
-| Support O4 Pro | Fixation VTX | PETG/PLA | `stl/support_o4pro.stl` |
-| Support Matek F405 | Fixation FC + amortissement vibrations | PETG/PLA | `stl/support_fc.stl` |
-| Support Camera  | Fixation Camera | PLA/PETG | `stl/cache_chuck.stl` |
+| O4 Pro mount | VTX mounting | PETG/PLA | `stl/support_o4pro.stl` |
+| Matek F405 mount | FC mounting + vibration damping | PETG/PLA | `stl/support_fc.stl` |
+| Camera mount | Camera mounting | PLA/PETG | `stl/support_camera.stl` |
 
-**Paramètres d'impression recommandés** *(à adapter selon tes tests)* :
-- Hauteur de couche : 0.2 mm
-- Remplissage : 20–30%
-- Parois : 3
-- Support : *(oui/non selon pièce)*
+**Recommended print settings** *(adjust based on your own tests)*:
+- Layer height: 0.2 mm
+- Infill: 20–30%
+- Wall count: 3
+- Supports: *(yes/no depending on part)*
 
-## 🔌 Câblage
+## 🔌 Wiring
 
-<!-- Schéma de câblage, image ou diagramme -->
-![Schéma de câblage](docs/images/wiring.png)
+![Wiring diagram](docs/images/wiring.svg)
 
-Détail des connexions FC ↔ O4 Pro ↔ récepteur : voir [`docs/wiring.md`](docs/wiring.md)
+Detailed FC ↔ O4 Pro ↔ receiver connections: see [`docs/wiring.md`](docs/wiring.md)
 
-## ⚙️ Réglages INAV
+## ⚙️ INAV settings
 
-Fichier de configuration exportable directement dans le INAV Configurator :
+Configuration file directly importable into the INAV Configurator:
 
-📄 [`inav/disco_o4pro.txt`](inav/disco_o4pro.txt) — *(dump complet via CLI `diff all`)*
+📄 [`inav/disco_o4pro.txt`](inav/disco_o4pro.txt) — *(full dump via CLI `diff all`)*
 
-Points clés de configuration :
-- **Mixer** : profil fixed-wing, type *(à préciser : DIFFERENTIAL_THRUST, etc.)*
-- **Modes de vol** : *(ANGLE, NAV_ALTHOLD, RTH, etc.)*
-- **Failsafe** : *(réglages spécifiques recommandés)*
-- **PID** : valeurs ajustées pour la masse/inertie du Disco modifié
+Key configuration points:
+- **Mixer**: fixed-wing profile, type *(to specify: DIFFERENTIAL_THRUST, etc.)*
+- **Flight modes**: *(ANGLE, NAV_ALTHOLD, RTH, etc.)*
+- **Failsafe**: *(recommended specific settings)*
+- **PID**: values tuned for the weight/inertia of the modified Disco
 
-> ⚠️ Ces réglages sont un point de départ, pas une config universelle. Ajuste selon ton propre montage et fais tes tests en conditions sûres.
+> ⚠️ These settings are a starting point, not a universal config. Adjust for your own build and test in safe conditions.
 
-## 📋 Guide de montage
+## 📋 Build guide
 
-1. Démontage du C.H.U.C.K d'origine
-2. Impression et préparation des supports 3D
-3. Installation Matek F405 + câblage
-4. Installation DJI O4 Pro
-5. Flash et configuration INAV
-6. Calibration (accéléromètre, compas, ESC)
-7. Tests au sol avant premier vol
+1. Removing the original C.H.U.C.K
+2. Printing and preparing the 3D mounts
+3. Installing the Matek F405 + wiring
+4. Installing the DJI O4 Pro
+5. Flashing and configuring INAV
+6. Calibration (accelerometer, compass, ESC)
+7. Ground tests before the first flight
 
-Détails complets : [`docs/guide-montage.md`](docs/guide-montage.md)
+Full details: [`docs/guide-montage.md`](docs/guide-montage.md)
 
-## ⚠️ Avertissement
+## ⚠️ Disclaimer
 
-Ce mod implique de voler avec un firmware et un matériel non homologués par Parrot. À réaliser en connaissance de cause, dans le respect de la réglementation drone en vigueur (DGAC / réglementation locale), et jamais au-dessus de personnes ou zones sensibles.
+This mod involves flying with firmware and hardware not approved by Parrot. Proceed at your own risk, comply with applicable drone regulations in your country, and never fly over people or sensitive areas.
 
-## 📬 Contact / Commander
+## 📬 Contact / Order
 
-- Pièces imprimées prêtes à l'emploi : me faire la demande par Email 
-- Questions techniques : Email
+- Ready-to-use printed parts: reach out by email
+- Technical questions: email
 
-## 📄 Licence
+## 📄 License
 
-*(ex: MIT pour le code/configs, CC-BY-NC pour les fichiers 3D — à définir selon ta volonté commerciale)*
+*(e.g. MIT for code/configs, CC-BY-NC for 3D files — to be defined based on your commercial plans)*
