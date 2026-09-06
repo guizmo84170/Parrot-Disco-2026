@@ -14,7 +14,7 @@ Modification complète du Parrot Disco : suppression du chuck d'origine, intégr
 
 ## ✈️ Résultat
 
-[Vidéo du premier vol](LIEN_VIDEO)
+[Vidéo du premier vol]([LIEN_VIDEO](https://youtu.be/oAaKVsJd3Pc?si=X5Niqoi7fkNdR0t8))
 
 ## 🛠️ Matériel utilisé
 
@@ -91,6 +91,3 @@ Ce mod implique de voler avec un firmware et un matériel non homologués par Pa
 - Pièces imprimées prêtes à l'emploi : me faire la demande par Email
 - Questions techniques : Email
 
-## 📄 Licence
-
-*(ex: MIT pour le code/configs, CC-BY-NC pour les fichiers 3D — à définir selon ta volonté commerciale)*
