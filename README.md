@@ -91,6 +91,4 @@ This mod involves flying with firmware and hardware not approved by Parrot. Proc
 - Ready-to-use printed parts: reach out by email
 - Technical questions: email
 
-## 📄 License
 
-*(e.g. MIT for code/configs, CC-BY-NC for 3D files — to be defined based on your commercial plans)*
