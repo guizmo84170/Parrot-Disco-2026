@@ -44,11 +44,12 @@ All parts are available for download/purchase at:
 | Matek F405 mount | FC mounting + vibration damping | PETG/PLA | `stl/support_fc.stl` |
 | Camera mount | Camera mounting | PLA/PETG | `stl/support_camera.stl` |
 
-**Recommended print settings** *(adjust based on your own tests)*:
+**Recommended print settings**:
 - Layer height: 0.2 mm
 - Infill: 20–30%
 - Wall count: 3
 - Supports: *(yes/no depending on part)*
+- PLA
 
 ## 🔌 Wiring
 
