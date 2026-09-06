@@ -14,7 +14,7 @@ Full conversion of the Parrot Disco: removal of the original chuck, integration 
 
 ## ✈️ Result
 
-[First flight video](LIEN_VIDEO)
+[First flight video]([LIEN_VIDEO](https://youtu.be/oAaKVsJd3Pc?si=X5Niqoi7fkNdR0t8))
 
 ## 🛠️ Hardware used
 
