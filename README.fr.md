@@ -44,11 +44,12 @@ Toutes les pièces sont disponibles en téléchargement/achat sur :
 | Support Matek F405 | Fixation FC + amortissement vibrations | PETG/PLA | `stl/support_fc.stl` |
 | Support Caméra | Fixation caméra | PLA/PETG | `stl/support_camera.stl` |
 
-**Paramètres d'impression recommandés** *(à adapter selon tes tests)* :
+**Paramètres d'impression recommandés**  :
 - Hauteur de couche : 0.2 mm
 - Remplissage : 20–30%
 - Parois : 3
 - Support : *(oui/non selon pièce)*
+- PLA
 
 ## 🔌 Câblage
 
